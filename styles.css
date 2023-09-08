@@ -1,0 +1,20 @@
+.image-collage {
+    position: relative;
+  }
+  
+  .image-collage img.overlap {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+
+  .image-container img {
+    display: inline-block;
+    width: 48%; /* Adjust as needed to leave space for margins */
+  }
+  
+  .image-container {
+    text-align: center; /* Optional: Centers the images */
+  }
+  
